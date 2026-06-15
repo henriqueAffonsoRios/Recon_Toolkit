@@ -36,8 +36,8 @@ um profissional precisa mapear a superfície de ataque do alvo.
 
 **Instalação:**
 ```bash
-git clone https://github.com/henriqueAffonsoRios/recon-toolkit
-cd recon-toolkit
+git clone https://github.com/henriqueAffonsoRios/Recon-Toolkit
+cd Recon-Toolkit
 pip install -r requirements.txt
 ```
 
